@@ -20,7 +20,7 @@ public class Booking {
 	private String to;
 	
 	
-	private User sender;
+	//private User sender;
 	
 	private String receiverName;
 	

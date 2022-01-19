@@ -9,3 +9,4 @@ import in.rakuten.shiprocket.model.User;
 public interface UserRepository extends JpaRepository<User, Integer> {
 
 }
+
